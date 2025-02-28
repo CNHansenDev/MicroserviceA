@@ -5,10 +5,10 @@ Communication Contract:
 All communication will be done via email or discord.
 
 
-Request:
-Data can be requested with an HTTP client using GET.
-Endpoint:
-GET /process_file
+Request:/n
+Data can be requested with an HTTP client using GET./n
+Endpoint:/n
+GET /process_file/n
 
 
 Receive:
